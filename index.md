@@ -21,6 +21,7 @@ title: CS16, Fall 2017, zmatni
 
 <div data-role="collapsible" data-collapsed="false">
 <h2 id="homework">Homework:</h2>
+<p>NOTE: All homework is taken on GauchoSpace</p>
 {% include hwk_table.html %}
 </div>
 
