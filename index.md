@@ -1,5 +1,5 @@
 ---
-title: CS16, Fall 2017, zmatni
+title: CS16, Spring 2018, zmatni
 ---
 
 # {{site.course}}, {{site.quarter}}
@@ -27,6 +27,7 @@ title: CS16, Fall 2017, zmatni
 
 <div data-role="collapsible" data-collapsed="false">
 <h2 id="labs">Labs:</h2>
+<p>NOTE: All labs must be submited on submit.cs </p>
 {% include lab_table.html %}
 </div>
 
