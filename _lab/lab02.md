@@ -167,4 +167,9 @@ If you are logged in remotely, you can log out using the exit command:
 
 `$ exit`
 
+<hr>
+<p><font size="1">
+Copyright 2018, Ziad Matni, CS Dept, UC Santa Barbara. Permission to copy for non-commercial, non-profit, educational purposes granted, provided appropriate credit is given; all other rights reserved.
+</font></p>
+
 </div>
