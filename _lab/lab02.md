@@ -90,7 +90,7 @@ int main()
     double pivalue(0); 
 
     // You need to do something about the formatting requirement here!
-    // You also need to do a loop here that keeps asking for number of terms and then calculates pi here!
+    // You also need to do a loop here that keeps asking for number of terms and then calculates pi!
     // HINT: You can use cmath for its pow() function, which calculates x raised to the power y when used like: pow(x,y)
     
     return 0;
