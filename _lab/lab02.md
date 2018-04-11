@@ -159,7 +159,7 @@ You may submit this lab multiple times. You should submit only after local compi
 
 <h2>Step 6: Almost Done!</h2>
 
-Once your submission receives a score of 100/100, you are done with this assignment. HOWEVER, PLEASE NOTE THAT YOUR ASSIGNMENT WILL ALSO BE GRADED FOR FOLLOWING DIRECTIONS (see the "IMPORTANT NOTE" at the top of this document)! 
+Once your submission receives a score of 100/100, you are done with this assignment. HOWEVER, PLEASE NOTE THAT YOUR ASSIGNMENT WILL ALSO BE GRADED FOR FOLLOWING DIRECTIONS (see the "IMPORTANT NOTE" at the top of this document) AND MAKING YOUR CODE "READABLE" (that is, use comments and tabbed spaces appropriately)! 
 
 If you are in the Phelps lab or in CSIL, make sure to log out of the machine before you leave. Also, make sure to close all open programs before you log out. Some programs will not work next time if they are not closed. Remember to save all your open files before you close your text editor.
 
