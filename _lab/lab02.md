@@ -81,7 +81,7 @@ Here is a "skeleton" program to help you get started:
 
 ```cpp
 #include <iostream>
-#include <cmath> // HINT: You can use cmath for its pow() function
+#include <cmath> 
 using namespace std;
 
 int main()
@@ -91,7 +91,8 @@ int main()
 
     // You need to do something about the formatting requirement here!
     // You also need to do a loop here that keeps asking for number of terms and then calculates pi here!
-
+    // HINT: You can use cmath for its pow() function, which calculates x raised to the power y when used like: pow(x,y)
+    
     return 0;
 }
 ```
