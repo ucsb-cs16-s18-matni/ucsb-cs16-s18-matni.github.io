@@ -77,6 +77,9 @@ The formula works well for high values of n.
 
 The program takes an input from the user for the value of n, which determines the number of terms in the approximation of the value of pi. The program then outputs that calculation for the formula. You must also include a loop that allows the user to repeat this calculation for new values n until the user says she or he wants to end the program by issuing an input of 0. Finally, the results must be shown to the 5th decimal place.
 
+The number of terms is assumed to NOT include the added 1 in the formula.
+In other words, if the variable terms = 1, then pivalue = 4*[ 1 - (1/3) ], and if terms = 2, then pivalue = 4*[ 1 - (1/3) + (1/5) ], etc...
+
 Here is a "skeleton" program to help you get started:
 
 ```cpp
