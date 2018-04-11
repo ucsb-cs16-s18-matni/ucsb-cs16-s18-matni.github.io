@@ -3,8 +3,8 @@ layout: lab
 num: lab02
 ready: true
 desc: "Simple Flow Control"
-assigned: 2017-04-11 08:00:00.00-7
-due: 2017-04-16 12:00:00.00-7
+assigned: 2018-04-11 08:00:00.00-7
+due: 2018-04-16 12:00:00.00-7
 ---
 
 <div markdown="1">
