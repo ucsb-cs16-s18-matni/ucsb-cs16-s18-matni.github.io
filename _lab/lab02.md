@@ -77,26 +77,42 @@ The formula works well for high values of n.
 
 The program takes an input from the user for the value of n, which determines the number of terms in the approximation of the value of pi. The program then outputs that calculation for the formula. You must also include a loop that allows the user to repeat this calculation for new values n until the user says she or he wants to end the program by issuing an input of 0. Finally, the results must be shown to the 5th decimal place.
 
+Here is a "skeleton" program to help you get started:
+
+```cpp
+#include <iostream>
+#include <cmath> // HINT: You can use cmath for its pow() function
+using namespace std;
+
+int main()
+{
+    int terms(1);
+    double pivalue(0); 
+
+    // You need to do something about the formatting requirement here!
+    // You also need to do a loop here that keeps asking for number of terms and then calculates pi here!
+
+    return 0;
+}
+```
+
 The program should print a string of text to the terminal before getting each piece of input from the user. A session should look like the following example (including whitespace and formatting), with various and different inputs and numbers in the output:
 
 ```
 Enter the number of terms to approximate (or zero to quit):
 5
 The approximation for Leibniz's Formula is 2.97605 using 5 terms.
-
 Enter the number of terms to approximate (or zero to quit):
 50
 The approximation for Leibniz's Formula is 3.16120 using 50 terms.
-
 Enter the number of terms to approximate (or zero to quit):
 1000
 The approximation for Leibniz's Formula is 3.14259 using 1000 terms.
-
 Enter the number of terms to approximate (or zero to quit):
 0
-
 ```
-Note that each string printed by the program should include a newline at the end, but no other trailing whitespace (whitespace at the end of the line). Note that when the program exits, when a user enters 0, there is a newline generated.
+
+Note that each string printed by the program should include a newline at the end, but no other trailing whitespace (whitespace at the end of the line). Note that when the program exits, when a user enters 0, there is no approximation given - the program just ends there.
 
 <h2>Step 3: Compile the Codes</h2>
 
