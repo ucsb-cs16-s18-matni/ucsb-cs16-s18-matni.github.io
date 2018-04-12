@@ -22,8 +22,8 @@ Wednesdays starting at 8am, 9am, 10am, 11am in PHELP 3525, ATTENDANCE REQUIRED.<
 
 | <b>TA</b>         | <b>Email</b>               | <b>Open Lab Hours</b>  |
 |-------------------|----------------------------|------------------------|
-| Xiyou Zhou        | <xiyou@umail.ucsb.edu>     | Tue. 7:00 - 9:00 PM in PHELP 3525|
-| Muqsit Nawaz      | <mmnawaz@umail.ucsb.edu>   | Mon. 5:30 - 7:30 PM in PHELP 3525|
+| Xiyou Zhou        | <xiyou@umail.ucsb.edu>     | Fri. 11:00 AM - 1:00 PM  in PHELP 3525|
+| Muqsit Nawaz      | <mmnawaz@umail.ucsb.edu>   | Thu. 10:00 AM - 12:00 PM in PHELP 3525|
 | Shiyu Ji          | <shiyu@cs.ucsb.edu>        | |
 |                   |                            | |
 | <b>Grader</b>     | <b>Email</b>               | |
