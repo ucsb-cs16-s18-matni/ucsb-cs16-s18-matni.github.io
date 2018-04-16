@@ -178,22 +178,20 @@ Remember to re-compile the relevant files after you make any changes to the C++ 
 
 You may submit this lab multiple times. You should submit only after local compilation does not produce any errors and runs as expected. The score of the last submission uploaded before the deadline will be used as your assignment grade.
 
-We will use Gradescope to grade all your lab/programming assignments from here on. You should have received an email notification with instructions about logging into Gradescope.
+<strong>We will use Gradescope to grade all your lab/programming assignments from here on. You should have received an email notification with instructions about logging into Gradescope.</strong>
 
-Log into <a href="https://www.gradescope.com" _target="blank">https://www.gradescope.com</a> and find our class site: <strong>CS16, Spring 2018, Matni</strong> (be careful: there is another Gradescope module for the OTHER section of CS16 - do not use that one!). Then navigate to the lab assignment (lab03) and select this assignment. 
-You should see a "Submit Programming Assignment" window pop up. Go ahead and submit all of your .cpp files for this assignment and click "Upload".
-
+Log into <a href="https://www.gradescope.com" _target="blank">https://www.gradescope.com</a> and find our class site: <strong>CS16, Spring 2018, Matni</strong>. Then navigate to the lab assignment (lab03) and select this assignment. You should see a "Submit Programming Assignment" window pop up. Make sure you have selected "Upload" as Submission Method (not "Github" or "Bitbucket"). Go ahead and submit all of your .cpp files for this assignment and click the green "Upload" button.
 
 <img src="Gradescope_Upload.png" alt="pic of gradescope submit" width="450" />
-
-You can re-submit your programs (you have to re-submit ALL of them, even if you're only making changes in one of them) before the deadline. Do this by clicking on the “Resubmit” button on the bottom right corner to make a submission. 
-
-<img src="Gradescope_Buttons.png" alt="pic of gradescope buttons" width="600" />
 
 When you submit *BOTH* your change.cpp and calculate.cpp C++ program files, wait for the results (these might take a minute or two).
 You then will see feedback from Gradescope's Autograder - both about what passed and what failed, like in the picture here:
 
 <img src="Gradescope_PassFail.png" alt="pic of gradescope pass and fail tests" width="800" />
+
+You can re-submit your programs (you have to re-submit ALL of them, even if you're only making changes in one of them) before the deadline. Do this by clicking on the “Resubmit” button on the bottom right corner to make a submission. 
+
+<img src="Gradescope_Buttons.png" alt="pic of gradescope buttons" width="600" />
 
 When you are done (after submitting), you will be able to see your lab score.
 
