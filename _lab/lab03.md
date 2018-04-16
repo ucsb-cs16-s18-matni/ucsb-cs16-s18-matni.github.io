@@ -180,16 +180,22 @@ You may submit this lab multiple times. You should submit only after local compi
 
 We will use Gradescope to grade all your lab/programming assignments from here on. You should have received an email notification with instructions about logging into Gradescope.
 
-Log into <a href="https://www.gradescope.com" _target="blank">https://www.gradescope.com</a> and find our class site: <strong>CS16, Spring 2018, Matni</strong> (be careful: there is another Gradescope module for the OTHER section of CS16 - do not use that one!). Then navigate to the lab assignment (lab03) and select this assignment. Then click on the “Submit” button on the bottom right corner to make a submission. 
+Log into <a href="https://www.gradescope.com" _target="blank">https://www.gradescope.com</a> and find our class site: <strong>CS16, Spring 2018, Matni</strong> (be careful: there is another Gradescope module for the OTHER section of CS16 - do not use that one!). Then navigate to the lab assignment (lab03) and select this assignment. 
+You should see a "Submit Programming Assignment" window pop up. Go ahead and submit all of your .cpp files for this assignment and click "Upload".
+
+
+<img src="Gradescope_Upload.png" alt="pic of gradescope submit" width="600" />
+
+You can re-submit your programs (you have to re-submit ALL of them, even if you're only making changes in one of them) before the deadline. Do this by clicking on the “Resubmit” button on the bottom right corner to make a submission. 
 
 <img src="Gradescope_Buttons.png" alt="pic of gradescope buttons" width="600" />
 
-Submit *both* your change.cpp and calculate.cpp C++ program files. Then wait for the results (these might take a minute or two).
+When you submit *BOTH* your change.cpp and calculate.cpp C++ program files, wait for the results (these might take a minute or two).
 You then will see feedback from Gradescope's Autograder - both about what passed and what failed, like in the picture here:
 
 <img src="Gradescope_PassFail.png" alt="pic of gradescope pass and fail tests" width="1000" />
 
-As stated earlier, you can re-submit your lab as many times as you need to before the deadline passes.
+When you are done (after submitting), you will be able to see your lab score.
 
 <h2>Step 5: Done!</h2>
 
