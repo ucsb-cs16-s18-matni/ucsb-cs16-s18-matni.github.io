@@ -182,7 +182,7 @@ We will use Gradescope to grade all your lab/programming assignments from here o
 
 Log into <a href="https://www.gradescope.com" _target="blank">https://www.gradescope.com</a> and find our class site: <strong>CS16, Spring 2018, Matni</strong> (be careful: there is another Gradescope module for the OTHER section of CS16 - do not use that one!). Then navigate to the lab assignment (lab03) and select this assignment. Then click on the “Submit” button on the bottom right corner to make a submission. 
 
-<img src="Gradescope_Buttons.png" alt="pic of gradescope buttons" width="300" />
+<img src="Gradescope_Buttons.png" alt="pic of gradescope buttons" width="600" />
 
 Submit *both* your change.cpp and calculate.cpp C++ program files. Then wait for the results (these might take a minute or two).
 You then will see feedback from Gradescope's Autograder - both about what passed and what failed, like in the picture here:
