@@ -16,9 +16,9 @@ The assignment for this week will utilize loops, conditionals, and functions, in
 It is HIGHLY RECOMMENDED that you go through these 3 exercises in the order in which they are described to you here. Also, it is equally HIGHLY RECOMMENDED that you develop the algorithms for each program FIRST and THEN develop the C++ code for it.
 
 <h2>Pair programming is <b>REQUIRED</b> for this lab!!!</h2>
-You **must** choose a partner for this lab before you begin! Please consult with your lab TA if you cannot find a partner. No changes will be allowed to your paired grouping once established.
+You **must** choose a partner for this lab before you begin! Partners **must** be in the **same** lab section. Please consult with your lab TA if you cannot find a partner. No changes will be allowed to your paired grouping once established.
 
-You MUST pair with someone IN THE SAME LAB AS YOU. Both students will submit the same files and get the same grade. In submit.cs, click on the BLUE button that says "Join Groups" before you submit files. Ask your T.A. for help if you need it. In the case where there is an odd number of students in the lab, the T.A. will choose who the un-paired student will be (ONLY ONE student per lab is allowed this).
+Again, you MUST pair with someone IN THE SAME LAB AS YOU. Both students will submit the same files and get the same grade. Ask your T.A. for help if you need it. In the case where there is an odd number of students in the lab, the T.A. will choose who the un-paired student will be (ONLY ONE student per lab is allowed this).
 
 To learn more about pair programming, watch the following video (it takes less than 10 minutes, but watch it BEFORE you get to the lab to make the best out of your time in there):
 
