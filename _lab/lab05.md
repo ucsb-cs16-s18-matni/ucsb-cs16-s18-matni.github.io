@@ -73,7 +73,7 @@ That's 81 in decimal.
 $ ./8binConv 11111111
 That's 255 in decimal.
 ```
-You can include <b>cstlib</b>, <b>cstring</b>, and <b>cmath</b> (in addition to <b>iostream</b>, of course) libraries.
+You can include <b>cstdlib</b>, <b>cstring</b>, <b>string</b>, and <b>cmath</b> (in addition to <b>iostream</b>, of course) libraries.
 
 Some clues that will likely come in handy:
 
