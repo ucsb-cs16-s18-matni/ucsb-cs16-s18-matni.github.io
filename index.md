@@ -27,7 +27,7 @@ title: CS16, Spring 2018, zmatni
 
 <div data-role="collapsible" data-collapsed="false">
 <h2 id="labs">Labs:</h2>
-<p>NOTE: All labs must be submited on submit.cs </p>
+<p>NOTE: All labs (past lab02) must be submited on Gradescope </p>
 {% include lab_table.html %}
 </div>
 
