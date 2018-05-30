@@ -290,6 +290,10 @@ This list is empty.
 This list is empty.
 ```
 
+To compile the programs, make use of the provided Makefile and run it like this:
+
+$ make
+
 ---
 
 <h2>Step 3: Submit using GRADESCOPE</h2>
@@ -304,6 +308,7 @@ Log into <a href="https://www.gradescope.com" _target="blank">https://www.grades
 
 <img src="Gradescope_Upload.png" alt="pic of gradescope submit" width="450" />
 
+**IMPORTANT**
 **You will submit 3 files: lab09.cpp, lab09_functions.cpp, and lab09_headers.h. You do not need to submit the Makefile.**
 
 When you submit your C++ program files, wait for the results (these might take a minute or two).
