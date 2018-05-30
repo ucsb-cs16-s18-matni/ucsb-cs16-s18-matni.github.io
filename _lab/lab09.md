@@ -292,7 +292,7 @@ This list is empty.
 
 To compile the programs, make use of the provided Makefile and run it like this:
 
-$ make
+<code>$ make</code>
 
 ---
 
