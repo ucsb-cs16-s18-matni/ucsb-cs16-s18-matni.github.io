@@ -309,9 +309,9 @@ Log into <a href="https://www.gradescope.com" _target="blank">https://www.grades
 <img src="Gradescope_Upload.png" alt="pic of gradescope submit" width="450" />
 
 **IMPORTANT**
-**You will submit 3 files: lab09.cpp, lab09_functions.cpp, and lab09_headers.h. You do not need to submit the Makefile.**
+**You will submit just ONE file: *lab09_functions.cpp*. You do not need to submit any of the other files.**
 
-When you submit your C++ program files, wait for the results (these might take a minute or two).
+When you submit your C++ program file, wait for the results (these might take a minute or two).
 You then will see feedback from Gradescope's Autograder - both about what passed and what failed, like in the picture here:
 
 <img src="Gradescope_PassFail.png" alt="pic of gradescope pass and fail tests" width="800" />
