@@ -66,7 +66,7 @@ A *palindrome* is a word or phrase whose meaning may be interpreted the same way
 
 Write a recursive function that returns a Boolean value of true if an input string is a palindrome and false if it is not. You can do this by checking if the first character equals the last character, and if so, make a recursive call with the input string minus the first and last characters. You will have to define a suitable stopping condition.
 
-Important: the string may contain ANY character, like whitespaces, hash-tags, numbers, etc... You should only be checking if the alphabet characters constitute a palindrome (ignore the character case).
+Important: the string may contain ANY character, like whitespaces, hash-tags, numbers, etc... You should only be checking if the alphabet characters constitute a palindrome (ignore the character case). An input string that has NO letters (or is empty) is considered to be a palindrome (nothing backwards is still nothing!)
 
 Look at the lab10.cpp program provided and the main() function therein. It takes in a string as user input, then calls 2 functions (cleanUp() and isPalindrome()) and, on the basis of the answer it sees, it outputs the result.
 
@@ -112,7 +112,13 @@ $ ./lab10
 Enter sentence:
 Just as I suspected...
 It is not a palindrome.
+$ ./lab10
+Enter sentence:
+
+It is a palindrome.
 ```
+
+Note: that last entry in the example above was just an empty string.
 
 *You MUST use a recursive function to build this program and you may not use built-in C++ functions or any other techniques that we have NOT discussed in lecture.*
 
