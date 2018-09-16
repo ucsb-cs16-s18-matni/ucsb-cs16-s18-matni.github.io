@@ -8,6 +8,7 @@ title: CS16, Spring 2018, zmatni
 <div id="info" data-role="collapsible" data-collapsed="false">
 <h2>Course Information</h2>
 <ul>
+<p><font color="red" size="28"><b>THIS CLASS IS NOW CLOSED.<br/>MATERIAL HERE DOES NOT APPLY TO FUTURE QUARTERS.</b></font></p>
 {% for item in site.info %}
 <li><a href="{{item.url}}"  data-ajax="false">{{item.title }}</a></li>
 {% endfor %}
